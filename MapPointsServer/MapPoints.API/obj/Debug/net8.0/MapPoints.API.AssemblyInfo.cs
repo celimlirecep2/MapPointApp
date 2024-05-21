@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapPoints.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0b2e75cd3a490152cca6518356bc1624ac4da2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapPoints.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapPoints.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

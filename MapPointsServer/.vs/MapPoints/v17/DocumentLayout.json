@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\",
+  "WorkspaceRootPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\database\\mappoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\database\\mappoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\services\\abstract\\imappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\services\\abstract\\imappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\database\\mappoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\database\\mappoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\services\\abstract\\imappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\services\\abstract\\imappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\services\\concreate\\mappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\services\\concreate\\mappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\services\\concreate\\mappointrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointsserver\\mappoints.api\\models\\mappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|c:\\users\\recep\\downloads\\mappointapi\\mappointapp\\mappointsserver\\mappoints.api\\models\\mappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74A063C4-4BBD-4411-8948-1BE1D5E32983}|MapPoints.API\\MapPoints.API.csproj|solutionrelative:mappoints.api\\models\\mappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,11 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "mappoints.json",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Database\\mappoints.json",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Database\\mappoints.json",
               "RelativeDocumentMoniker": "MapPoints.API\\Database\\mappoints.json",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Database\\mappoints.json",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Database\\mappoints.json",
               "RelativeToolTip": "MapPoints.API\\Database\\mappoints.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -59,23 +59,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MapPoints.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "MapPoints.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T13:41:05.027Z"
+              "WhenOpened": "2024-05-21T13:41:05.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MapPointRepository.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
               "RelativeDocumentMoniker": "MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
               "RelativeToolTip": "MapPoints.API\\Services\\Concreate\\MapPointRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IMapPointRepository.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
               "RelativeDocumentMoniker": "MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
               "RelativeToolTip": "MapPoints.API\\Services\\Abstract\\IMapPointRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +98,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MapPoint.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Models\\MapPoint.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Models\\MapPoint.cs",
               "RelativeDocumentMoniker": "MapPoints.API\\Models\\MapPoint.cs",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Models\\MapPoint.cs",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Models\\MapPoint.cs",
               "RelativeToolTip": "MapPoints.API\\Models\\MapPoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Program.cs",
               "RelativeDocumentMoniker": "MapPoints.API\\Program.cs",
-              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\Program.cs",
+              "ToolTip": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\Program.cs",
               "RelativeToolTip": "MapPoints.API\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAjwCgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

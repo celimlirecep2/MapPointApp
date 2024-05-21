@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\MapPoints.API.csproj",
+      "projectUniqueName": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\MapPoints.API.csproj",
       "projectName": "MapPoints.API",
-      "projectPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\MapPoints.API.csproj",
+      "projectPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\MapPoints.API.csproj",
       "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointsServer\\MapPoints.API\\obj\\",
+      "outputPath": "C:\\Users\\recep\\Downloads\\MapPointAPI\\MapPointApp\\MapPointsServer\\MapPoints.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",
